@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "type": "module",
+  "name": "node",
+  "description": "Modern_javaScript_DeepDive 책 공부내용",
+  "version": "1.0.0",
+  "main": "Example-03-02.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://KangYunho1221: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@github.com/KangYunHo1221/Modern_JS_DeepDive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KangYunHo1221/Modern_JS_DeepDive/issues"
+  },
+  "homepage": "https://github.com/KangYunHo1221/Modern_JS_DeepDive#readme"
+}
